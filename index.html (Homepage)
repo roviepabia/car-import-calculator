@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Import Cost Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to the Car Import Cost Calculator</h1>
+        </header>
+        <main>
+            <p>Calculate the total cost of importing a vehicle, including all duties and taxes.</p>
+            <a href="calculator.html" class="button">Start Calculation</a>
+        </main>
+    </div>
+</body>
+</html>
